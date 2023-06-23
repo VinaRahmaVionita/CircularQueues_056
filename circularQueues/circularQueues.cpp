@@ -43,5 +43,5 @@ public:
 			cout << "\nQueue Overflow\n";
 			return;
 		}
+		cout << "\nThe elemen deleted from queue is: " << queue_array[FRONT] << "\n";
 		
-};
